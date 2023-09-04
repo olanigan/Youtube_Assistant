@@ -1,2 +1,4 @@
 openai
 langchain
+youtube-transcript-api
+pytube
