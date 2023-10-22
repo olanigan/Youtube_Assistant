@@ -1,1 +1,5 @@
 temp
+*.ipynb
+.DS_Store
+.venv
+__pycache__
