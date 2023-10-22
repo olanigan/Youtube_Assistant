@@ -2,3 +2,4 @@ openai
 langchain
 youtube-transcript-api
 pytube
+openai-whisper
